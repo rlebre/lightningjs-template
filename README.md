@@ -1,6 +1,6 @@
 # LightningJS
 
-## com.ruilebre.template
+Boilerplate template repository to start developing LightningJS apps using webpack. This includes development auto-refresh and building script.
 
 ### Getting started
 
